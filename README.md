@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis of a telecommunications datase
    - This Jupyter Notebook file contains the data preprocessing, cleaning, and analysis performed on the telecommunications dataset.  
    - Key analysis includes customer segmentation, turnover calculations, and aggregation of key metrics to segment customers and evaluate revenue patterns.
    
-2. **Power BI Visualizations (telco_data_visualization.pbix)**  
+2. **Power BI Visualizations (TelcoData.pbix)**  
    - This Power BI (.pbix) file includes an interactive dashboard showcasing the customer segmentation and product categorization insights.  
    - The dashboard includes various visuals such as KPI cards, treemaps, bar charts, and donut charts, allowing users to explore customer clusters, revenue breakdowns, and product category insights dynamically.
 
